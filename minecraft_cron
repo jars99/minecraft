@@ -1,0 +1,2 @@
+@reboot /home/jars99/minecraft/start_all.sh
+0 12 * * * /home/jars99/minecraft/upgrade_minecraft.sh
